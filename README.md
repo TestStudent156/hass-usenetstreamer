@@ -7,7 +7,7 @@ admin API.
 ## Installation (HACS)
 
 1. HACS → ⋮ → **Custom repositories**.
-2. Add `https://github.com/<OWNER>/hass-usenetstreamer` with category
+2. Add `https://github.com/TestStudent156/hass-usenetstreamer` with category
    **Integration**.
 3. Install **UsenetStreamer**, then restart Home Assistant.
 4. Settings → Devices & Services → **Add Integration** → **UsenetStreamer**.
